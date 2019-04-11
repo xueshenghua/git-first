@@ -8,4 +8,8 @@ public class Test {
     public void test() {
         System.out.println("test compare");
     }
+
+    public void test2() {
+        System.out.println("test....");
+    }
 }
